@@ -60,6 +60,10 @@ Redis Cache
   ↓
 PostgreSQL Database
 
+Architecture Diagram:
+
+<img width="959" height="638" alt="image" src="https://github.com/user-attachments/assets/961b81a9-88a8-41f9-8e23-a7887c53889c" />
+
 Flow:
 
 User sends long URL
