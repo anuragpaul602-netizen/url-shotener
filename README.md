@@ -212,6 +212,3 @@ url-shortener
  ├── pom.xml
  ├── README.md
  └── .gitignore
-Author
-
-Anurag Paul
